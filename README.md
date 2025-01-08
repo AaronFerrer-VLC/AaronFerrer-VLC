@@ -16,11 +16,11 @@
 <td width="50%">
 <h3 align="center">La Review </h3>
 <div align="center">
-<a href="https://github.com/AaronFerrer-VLC/client-final-project" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="La Review"></a>
+<a href="https://lareview2.netlify.app/" target="_blank"><img src="![Captura la Review](https://github.com/user-attachments/assets/1806a61b-6ea2-408d-9dda-02e8413b6c0b)
+" width="400" alt="La Review"></a>
 <p>
 <a href="https://lareview2.netlify.app/" target="_blank">
-<img src="![Captura la Review](https://github.com/user-attachments/assets/d099905a-bd75-4c34-9e47-45586f1ff835)
-">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://github.com/AaronFerrer-VLC/client-final-project" target="_blank">
 <img src="https://img.shields.io/badge/-CÓDIGO-green?style=for-the-badge&color=fbfc40">
