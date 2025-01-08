@@ -44,7 +44,7 @@
 <img src="https://img.shields.io/badge/-CÓDIGO-green?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>Aplicación web para conocer cines, ver que películas se emiten o estrenan y compartir reseñas de las películas. Incluye un sistema de autenticación de usuarios y gestión dinámica de bases de datos con MongoDB.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
