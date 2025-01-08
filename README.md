@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/aar%C3%B3n-jos%C3%A9-ferrer-barbas-474858150/">Aarón Ferrer</a> 👋</h1>
 </div>
-<img src="https://chatgpt.com/c/677e4813-22a0-800d-a833-6594f49c02a6">
+<img src="">
 
 ## Sobre mi
 
@@ -16,7 +16,7 @@
 <td width="50%">
 <h3 align="center">La Review </h3>
 <div align="center">
-<a href="https://lareview2.netlify.app/" target="_blank"><img src="https://drive.google.com/drive/folders/1naTZuF2XRIpt7dOoYUOmGDLj2i24sh-i" width="400" alt="La Review"></a>
+<a href="https://lareview2.netlify.app/" target="_blank"><img src="https://res.cloudinary.com/de0ld2xax/image/upload/v1736336064/Captura_de_pantalla_2025-01-08_115520_rmntfd.png" width="400" alt="La Review"></a>
 <p>
 <a href="https://github.com/AaronFerrer-VLC/server-final-project" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
