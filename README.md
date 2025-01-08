@@ -18,11 +18,12 @@
 <div align="center">
 <a href="https://github.com/AaronFerrer-VLC/client-final-project" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="La Review"></a>
 <p>
-<a href="https://github.com/AaronFerrer-VLC/server-final-project" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
 <a href="https://lareview2.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/-LaReview-green?style=for-the-badge&color=fbfc40">
+<img src="![Captura la Review](https://github.com/user-attachments/assets/d099905a-bd75-4c34-9e47-45586f1ff835)
+">
+</a>
+<a href="https://github.com/AaronFerrer-VLC/client-final-project" target="_blank">
+<img src="https://img.shields.io/badge/-CÓDIGO-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
 <p>Aplicación web para compartir críticas de cine y unirse a comunidades de cinéfilos. Incluye un sistema de autenticación de usuarios y gestión dinámica de bases de datos con MongoDB.</p>
