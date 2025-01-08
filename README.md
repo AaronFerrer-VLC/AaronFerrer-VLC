@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/aar%C3%B3n-jos%C3%A9-ferrer-barbas-474858150/">Aarón Ferrer</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="https://chatgpt.com/c/677e4813-22a0-800d-a833-6594f49c02a6">
 
 ## Sobre mi
 
