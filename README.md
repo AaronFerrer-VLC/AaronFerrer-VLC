@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/aar%C3%B3n-jos%C3%A9-ferrer-barbas-474858150/">Aarón Ferrer</a> 👋</h1>
 </div>
-<img src="">
+<img src="https://res.cloudinary.com/de0ld2xax/image/upload/v1736336182/DALL_E_2025-01-08_12.32.06_-_A_modern_GitHub_banner_design_featuring_a_professional_and_tech-savvy_theme_for_a_Full_Stack_Developer._The_banner_should_include_vibrant_gradients_in_omohcd.webp">
 
 ## Sobre mi
 
