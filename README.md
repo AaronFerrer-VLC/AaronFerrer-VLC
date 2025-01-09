@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/aar%C3%B3n-jos%C3%A9-ferrer-barbas-474858150/">Aarón Ferrer</a> 👋</h1>
+<h1 align="center">Hello, I am <a href="https://www.linkedin.com/in/aar%C3%B3n-jos%C3%A9-ferrer-barbas-474858150/">Aarón Ferrer</a> 👋</h1>
 </div>
 <img src="https://res.cloudinary.com/de0ld2xax/image/upload/v1736337248/Captura_de_pantalla_2025-01-08_125321_o3crv1.png">
 
@@ -10,7 +10,7 @@
 - 🧑‍🏫 Digital Product Manager
 <br>
 
-## Proyectos
+## Projects
 <table>
 <tr>
 <td width="50%">
@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/-CÓDIGO-green?style=for-the-badge&logo=github&logocolor=black">
 </a>
 </p>
-<p>Aplicación web para compartir críticas de cine y unirse a comunidades de cinéfilos. Incluye un sistema de autenticación de usuarios y gestión dinámica de bases de datos con MongoDB.</p>
+<p>Web application for sharing movie reviews and joining communities of movie buffs. Includes a user authentication system and dynamic database management with MongoDB.</p>
 </div>
                                                                                       
 </td>
@@ -44,7 +44,7 @@
 <img src="https://img.shields.io/badge/-CÓDIGO-green?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>Aplicación web para conocer cines, ver que películas se emiten o estrenan y compartir reseñas de las películas. Incluye un sistema de autenticación de usuarios y gestión dinámica de bases de datos con MongoDB.</p>
+</p>Web application to find out about movie theaters, see which movies are being broadcast or released, and share movie reviews. Includes a user authentication system and dynamic database management with MongoDB.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
