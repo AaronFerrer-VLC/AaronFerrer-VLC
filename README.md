@@ -43,6 +43,7 @@
 </p>
 
 
+
 ## Projects
 <table>
 <tr>
@@ -83,7 +84,10 @@
 </div>
 <br>
 
+
+
 ### ⚙️ &nbsp;GitHub Analytics
+
 
 <p align="center">
 <a href="https://github.com/AaronFerrer-VLC">
