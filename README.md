@@ -41,7 +41,7 @@
   </a>
 </p>
 
----
+<br>
 
 ## Projects
 <table>
