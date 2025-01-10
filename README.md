@@ -24,7 +24,7 @@
 - **Frameworks & Libraries**: React, Express, Bootstrap, Material PM, Node
  <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,express,materiaPM,nodejs,react " />
+    <img src="https://skillicons.dev/icons?i=bootstrap,express,nodejs,react " />
   </a>
 </p>
 
@@ -38,7 +38,7 @@
 - **Tools**: Figma, Visual Studio Code, Git, Vite, Postman, Bruno, Wordpress, Jira, Trello, Miro, Notion, 
  <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=wordpress,jira,vscode,vite,postman,notion,miro,figma,codepen,bruno,trello " />
+    <img src="https://skillicons.dev/icons?i=wordpress,vscode,vite,postman,notion,figma,codepen,bruno,trello " />
   </a>
 </p>
 
