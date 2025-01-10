@@ -43,8 +43,8 @@
 </p>
 
 
-
 ## Projects
+
 <table>
 <tr>
 <td width="50%">
@@ -60,8 +60,7 @@
 </a>
 </p>
 <p>Web application for sharing movie reviews and joining communities of movie buffs. Includes a user authentication system and dynamic database management with MongoDB.</p>
-</div>
-                                                                                      
+</div>                                                                                     
 </td>
 
 <td width="50%">
@@ -85,9 +84,7 @@
 <br>
 
 
-
-### ⚙️ &nbsp;GitHub Analytics
-
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/AaronFerrer-VLC">
