@@ -21,10 +21,10 @@
   </a>
 </p>
 
-- **Frameworks & Libraries**: React, Express, Bootstrap, Material PM, node
+- **Frameworks & Libraries**: React, Express, Bootstrap, Material PM, Node
  <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,express,materialui,nodejs,react " />
+    <img src="https://skillicons.dev/icons?i=bootstrap,express,materiaPM,nodejs,react " />
   </a>
 </p>
 
