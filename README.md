@@ -12,7 +12,7 @@
 <br>
 
 
-### 🚀 **Technologies I Work With**  
+## 🚀 **Technologies I Work With**  
 
 - **Languages**: JavaScript, HTML, CSS, 
  <p >
