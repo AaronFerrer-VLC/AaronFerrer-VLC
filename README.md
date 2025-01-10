@@ -4,7 +4,7 @@
 <img src="https://res.cloudinary.com/de0ld2xax/image/upload/v1736337248/Captura_de_pantalla_2025-01-08_125321_o3crv1.png"
 
  
-## About me
+## 👨‍🦲 **About me**
 
 - ⭐ Github Star ⭐ 
 - 📲 Full Stack Developer
@@ -43,7 +43,7 @@
 </p>
 
 
-## Projects
+## 💻 **Projects**
 
 <table>
 <tr>
@@ -84,7 +84,7 @@
 <br>
 
 
-## ⚙️ &nbsp;GitHub Analytics
+## ⚙️ **&nbsp;GitHub Analytics**
 
 <p align="center">
 <a href="https://github.com/AaronFerrer-VLC">
