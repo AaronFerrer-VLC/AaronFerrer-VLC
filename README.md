@@ -31,14 +31,14 @@
 - **Databases**: MongoDB, Atlas
  <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb" />
+    <img src="https://skillicons.dev/icons?i=mongodb, atlas" />
   </a>
 </p>
 
 - **Tools**: Figma, Visual Studio Code, Git, Vite, Postman, Bruno, Wordpress, Jira, Trello, Miro, Notion, 
  <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=wordpress,webflow,vscode,vite,postman,notion,ai,figma,codepen,arduino " />
+    <img src="https://skillicons.dev/icons?i=wordpress,jira,vscode,vite,postman,notion,miro,figma,codepen,bruno,trello " />
   </a>
 </p>
 
