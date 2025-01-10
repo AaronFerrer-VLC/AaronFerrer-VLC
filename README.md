@@ -2,14 +2,14 @@
 <h1 align="center">Hello, I am <a href="https://www.linkedin.com/in/aar%C3%B3n-jos%C3%A9-ferrer-barbas-474858150/">Aarón Ferrer</a> 👋</h1>
 </div>
 <img src="https://res.cloudinary.com/de0ld2xax/image/upload/v1736337248/Captura_de_pantalla_2025-01-08_125321_o3crv1.png">
-
+---
 ## About me
 
 - ⭐ Github Star ⭐ 
 - 📲 Full Stack Developer
 - 🧑‍🏫 Digital Product Manager
 <br>
-
+---
 
 ### 🚀 **Technologies I Work With**  
 
@@ -41,7 +41,7 @@
   </a>
 </p>
 
-<br>
+---
 
 ## Projects
 <table>
@@ -82,7 +82,7 @@
 </table>                                                                                 
 </div>
 <br>
-
+---
 
 ### ⚙️ &nbsp;GitHub Analytics
 
