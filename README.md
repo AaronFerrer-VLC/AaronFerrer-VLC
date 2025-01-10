@@ -3,12 +3,45 @@
 </div>
 <img src="https://res.cloudinary.com/de0ld2xax/image/upload/v1736337248/Captura_de_pantalla_2025-01-08_125321_o3crv1.png">
 
-## Sobre mi
+## About me
 
 - ⭐ Github Star ⭐ 
 - 📲 Full Stack Developer
 - 🧑‍🏫 Digital Product Manager
 <br>
+
+
+### 🚀 **Technologies I Work With**  
+
+- **Languages**: JavaScript, HTML, CSS, 
+ <p >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=babel,html,js,md,css " />
+  </a>
+</p>
+
+- **Frameworks & Libraries**: React, Express, Bootstrap, Material PM, node
+ <p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,express,materialui,nodejs,react " />
+  </a>
+</p>
+
+- **Databases**: MongoDB, Atlas
+ <p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>
+</p>
+
+- **Tools**: Figma, Visual Studio Code, Git, Vite, Postman, Bruno, Wordpress, Jira, Trello, Miro, Notion, 
+ <p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=wordpress,webflow,vscode,vite,postman,notion,ai,figma,codepen,arduino " />
+  </a>
+</p>
+
+---
 
 ## Projects
 <table>
