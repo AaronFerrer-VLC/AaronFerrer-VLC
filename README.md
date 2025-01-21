@@ -53,10 +53,10 @@
 <a href="https://lareview2.netlify.app/" target="_blank"><img src="https://res.cloudinary.com/de0ld2xax/image/upload/v1736336371/Captura_de_pantalla_2025-01-08_123909_amifjy.png" width="400" alt="La Review"></a>
 <p>
 <a href="https://github.com/AaronFerrer-VLC/server-final-project" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/SERVER-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://github.com/AaronFerrer-VLC/client-final-project" target="_blank">
-<img src="https://img.shields.io/badge/-CÓDIGO-green?style=for-the-badge&logo=github&logocolor=black">
+<img src="https://img.shields.io/badge/-CLIENT-green?style=for-the-badge&logo=github&logocolor=black">
 </a>
 </p>
 <p>Web application for sharing movie reviews and joining communities of movie buffs. Includes a user authentication system and dynamic database management with MongoDB.</p>
@@ -71,10 +71,10 @@
 <br>
 <p>
 <a href="https://github.com/AaronFerrer-VLC/server-module2" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/SERVER-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://github.com/AaronFerrer-VLC/client-module2" target="_blank">
-<img src="https://img.shields.io/badge/-CÓDIGO-green?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/-CLIENT-green?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 </p>Web application to find out about movie theaters, see which movies are being broadcast or released, and share movie reviews. Includes a user authentication system and dynamic database management with MongoDB.</p>
