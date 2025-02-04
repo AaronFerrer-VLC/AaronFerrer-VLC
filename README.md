@@ -17,7 +17,7 @@
 - **Languages**: JavaScript, HTML, CSS, 
  <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=babel,html,js,md,css " />
+    <img src="https://skillicons.dev/icons?i=html,js,md,css " />
   </a>
 </p>
 
@@ -38,7 +38,7 @@
 - **Tools**: Figma, Visual Studio Code, Git, Vite, Postman, Bruno, Wordpress, Jira, Trello, Miro, Notion, 
  <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=wordpress,vscode,vite,postman,notion,figma,codepen,bruno,trello " />
+    <img src="https://skillicons.dev/icons?i=vscode,vite,postman,notion,figma,codepen,bruno,trello " />
   </a>
 </p>
 
