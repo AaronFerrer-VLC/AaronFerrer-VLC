@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/de0ld2xax/image/upload/v1736337248/Captura_de_pantalla_2025-01-08_125321_o3crv1.png" width="600" alt="Aarón Ferrer">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Gif">
 </p>
 
 ## 👨‍💻 **About Me**
@@ -11,6 +11,14 @@
 - 📲 Full Stack Developer  
 - 🧑‍🏫 Digital Product Manager  
 - 🚀 API-First & Developer Experience Advocate  
+- 🌍 [Portfolio](https://aaronferrer-vlc.github.io/)  
+
+---
+
+## 🔥 **What I'm Currently Working On**
+- 🚀 Developing new API-First products
+- 🎨 Improving Developer Experience (DX)
+- 📚 Learning TypeScript and GraphQL
 
 ---
 
@@ -90,12 +98,18 @@
 
 ---
 
+## 🎓 **Certifications & Achievements**
+- ✅ API Product Management - Platform API Academy
+- ✅ Full Stack Web Development - Ironhack
+- ✅ Scrum & Agile Certified
+
+---
+
 ## ⚙️ **GitHub Analytics**
 
 <p align="center">
   <a href="https://github.com/AaronFerrer-VLC">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AaronFerrer-VLC&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AaronFerrer-VLC&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AaronFerrer-VLC&theme=algolia&hide_border=false"/>
   </a>
 </p>
 
@@ -108,5 +122,8 @@
   </a>
   <a href="mailto:tuemail@correo.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://aaronferrer-vlc.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github">
   </a>
 </p>
