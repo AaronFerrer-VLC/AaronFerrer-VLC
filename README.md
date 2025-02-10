@@ -96,18 +96,6 @@
 </tr>
 </table>  
 
-<script>
-  const images = document.querySelectorAll('img');
-  images.forEach(image => {
-    image.addEventListener('mouseenter', () => {
-      image.style.opacity = 0.7; 
-    });
-    image.addEventListener('mouseleave', () => {
-      image.style.opacity = 1;
-    });
-  });
-</script>
-
 ---
 
 ## 🎓 **Certifications & Achievements**
