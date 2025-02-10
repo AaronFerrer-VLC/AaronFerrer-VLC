@@ -99,7 +99,7 @@
 ---
 
 ## 🎓 **Certifications & Achievements**
-- ✅ API Product Management - Platform API Academy
+- ✅ PHP - Linkedin Learning
 - ✅ Full Stack Web Development - Ironhack
 - ✅ Scrum & Agile Certified
 
