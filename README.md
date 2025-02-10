@@ -76,7 +76,7 @@
 <h3 align="center">La Premier</h3>
 <div align="center">
   <a href="https://lapremiere.netlify.app/" target="_blank">
-    <img src="https://res.cloudinary.com/de0ld2xax/image/upload/v1736336294/Captura_de_pantalla_2025-01-08_123736_vmuylr.png" width="400" alt="La Premier">
+    <img src="https://res.cloudinary.com/de0ld2xax/image/upload/v1736336294/Captura_de_pantalla_2025-01-08_123736_vmuylr.png" width="400" alt="La Premier" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2); transition: opacity 0.3s;">
   </a>
   <p>
     <a href="https://github.com/AaronFerrer-VLC/server-module2" target="_blank">
