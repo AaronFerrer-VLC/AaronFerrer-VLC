@@ -39,9 +39,11 @@
     <img src="https://skillicons.dev/icons?i=mongodb" />
   </p>
 
-- **Tools**: Visual Studio Code, Vite, Postman, Bruno, Jira, Trello, Notion, Miro, Figma  
+- **Tools & Methodologies**: Visual Studio Code, Vite, Postman, Bruno, Jira, Trello, Notion, Miro, Figma, Scrum, Kanban  
   <p>
     <img src="https://skillicons.dev/icons?i=vscode,vite,postman,notion,figma,bruno,trello" />
+    <img src="https://img.shields.io/badge/Scrum-blue?style=for-the-badge&logo=agile&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kanban-green?style=for-the-badge&logo=agile&logoColor=white" />
   </p>
 
 ---
