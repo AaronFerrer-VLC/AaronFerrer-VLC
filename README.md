@@ -29,14 +29,14 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
   </p>
 
-- **Backend**: Node.js, Express  
+- **Backend**: Node.js, Express, Python, Django  
   <p>
-    <img src="https://skillicons.dev/icons?i=nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,django" />
   </p>
 
-- **Databases**: MongoDB (Atlas)  
+- **Databases**: MongoDB (Atlas), Oracle  
   <p>
-    <img src="https://skillicons.dev/icons?i=mongodb" />
+    <img src="https://skillicons.dev/icons?i=mongodb,oracle" />
   </p>
 
 - **Tools & Methodologies**: Visual Studio Code, Vite, Postman, Bruno, Jira, Trello, Notion, Miro, Figma, Scrum, Kanban  
