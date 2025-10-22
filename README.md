@@ -7,18 +7,18 @@
 </p>
 
 ## 👨‍💻 **About Me**
-- ⭐ Github Star ⭐  
-- 📲 Full Stack Developer  
-- 🧑‍🏫 Digital Product Manager  
-- 🚀 API-First & Developer Experience Advocate  
-- 🌍 [Portfolio](https://aaronferrer-vlc.github.io/)  
+- 📲 **Full-Stack Developer** (JavaScript/TypeScript, React, Node.js, Express, MongoDB, Java, Python)
+- 🧑‍💼 **Product Owner** (roadmap, backlog, stakeholder comms, Agile/Scrum, Jira)
+- 🧪 **QA Engineer** (manual & automated testing, Selenium, Postman, Gherkin/Cucumber)
+- 🚀 API-First & Developer Experience advocate  
+- 🌍 [Portfolio](https://aaronferrer-vlc.github.io/)
 
 ---
 
 ## 🔥 **What I'm Currently Working On**
-- 🚀 Developing new API-First products
-- 🎨 Improving Developer Experience (DX)
-- 📚 Learning TypeScript and GraphQL
+- 🚀 Building new **API-first** products in the MERN ecosystem
+- 🎨 Leveling up **Developer Experience (DX)** across tooling and workflows
+- 📚 Learning **TypeScript** and **GraphQL**
 
 ---
 
@@ -26,23 +26,25 @@
 
 - **Frontend**: HTML, CSS, JavaScript, React, Bootstrap  
   <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" alt="Frontend stack" />
   </p>
 
-- **Backend**: Node.js, Express, Python, Django  
+- **Backend**: Node.js, Express, Python, Django, Java  
   <p>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,python,django" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,java" alt="Backend stack" />
   </p>
 
 - **Databases**: MongoDB (Atlas), Oracle  
   <p>
-    <img src="https://skillicons.dev/icons?i=mongodb,oracle" />
+    <img src="https://skillicons.dev/icons?i=mongodb,oracle" alt="Databases" />
   </p>
 
 - **Tools & Methodologies**: Visual Studio Code, Vite, Postman, Bruno, Jira, Trello, Notion, Miro, Figma, Scrum, Kanban  
   <p>
-    <img src="https://skillicons.dev/icons?i=vscode,vite,postman,notion,figma,bruno,trello" />
+    <img src="https://skillicons.dev/icons?i=vscode,vite,postman,notion,figma,bruno,trello" alt="Tools & methods" />
   </p>
+
+- **Testing (QA)**: Selenium, Postman, Gherkin/Cucumber *(plus: CI-friendly test design & bug reporting with Jira/Zephyr)*
 
 ---
 
@@ -58,10 +60,10 @@
   </a>
   <p>
     <a href="https://github.com/AaronFerrer-VLC/server-final-project" target="_blank">
-      <img src="https://img.shields.io/badge/SERVER-ff9?style=for-the-badge&logo=github&logoColor=black">
+      <img src="https://img.shields.io/badge/SERVER-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Server repo"/>
     </a>
     <a href="https://github.com/AaronFerrer-VLC/client-final-project" target="_blank">
-      <img src="https://img.shields.io/badge/-CLIENT-green?style=for-the-badge&logo=github&logocolor=black">
+      <img src="https://img.shields.io/badge/-CLIENT-green?style=for-the-badge&logo=github&logocolor=black" alt="Client repo"/>
     </a>
   </p>
   <ul>
@@ -73,17 +75,17 @@
 </td>
 
 <td width="50%">
-<h3 align="center">La Premier</h3>
+<h3 align="center">La Premiere</h3>
 <div align="center">
   <a href="https://lapremiere.netlify.app/" target="_blank">
-    <img src="https://res.cloudinary.com/de0ld2xax/image/upload/v1736336294/Captura_de_pantalla_2025-01-08_123736_vmuylr.png" width="400" alt="La Premier" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2); transition: opacity 0.3s;">
+    <img src="https://res.cloudinary.com/de0ld2xax/image/upload/v1736336294/Captura_de_pantalla_2025-01-08_123736_vmuylr.png" width="400" alt="La Premiere" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2); transition: opacity 0.3s;">
   </a>
   <p>
     <a href="https://github.com/AaronFerrer-VLC/server-module2" target="_blank">
-      <img src="https://img.shields.io/badge/SERVER-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+      <img src="https://img.shields.io/badge/SERVER-80ffaa?style=for-the-badge&logo=github&logoColor=black" alt="Server repo"/>
     </a>
     <a href="https://github.com/AaronFerrer-VLC/client-module2" target="_blank">
-      <img src="https://img.shields.io/badge/-CLIENT-green?style=for-the-badge&logo=github&logoColor=black">
+      <img src="https://img.shields.io/badge/-CLIENT-green?style=for-the-badge&logo=github&logoColor=black" alt="Client repo"/>
     </a>
   </p>
   <ul>
@@ -99,17 +101,17 @@
 ---
 
 ## 🎓 **Certifications & Achievements**
-- ✅ PHP - Linkedin Learning
-- ✅ Full Stack Web Development - Ironhack
-- ✅ Scrum & Agile Certified
+- ✅ Full-Stack Web Development — Ironhack
+- ✅ Certified Scrum Product Owner® (CSPO®) — Agilar Spain
+- ✅ Data Visualization with Python — CF TIC Getafe
+- ✅ PHP (Essential & Advanced) — LinkedIn Learning
 
 ---
 
 ## ⚙️ **GitHub Analytics**
-
 <p align="center">
   <a href="https://github.com/AaronFerrer-VLC">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AaronFerrer-VLC&theme=algolia&hide_border=false"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AaronFerrer-VLC&theme=algolia&hide_border=false" alt="GitHub streak stats"/>
   </a>
 </p>
 
@@ -118,12 +120,13 @@
 ## 📬 **Connect with Me**
 <p align="center">
   <a href="https://www.linkedin.com/in/aar%C3%B3n-jos%C3%A9-ferrer-barbas-474858150/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="mailto:tuemail@correo.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:aaronferrerbarbas@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://aaronferrer-vlc.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github" alt="Portfolio">
   </a>
 </p>
+
