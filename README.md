@@ -1,5 +1,6 @@
 <div align="center">
   <h1 align="center">Hello, I am <a href="https://www.linkedin.com/in/aar%C3%B3n-jos%C3%A9-ferrer-barbas-474858150/">Aarón Ferrer</a> 👋</h1>
+  <h3 align="center">Full-Stack Developer | Product Owner | QA Engineer</h3>
 </div>
 
 <p align="center">
@@ -24,9 +25,9 @@
 
 ## 🚀 **Technologies I Work With**
 
-- **Frontend**: HTML, CSS, JavaScript, React, Bootstrap  
+- **Frontend**: HTML, CSS, JavaScript, TypeScript, React, Bootstrap  
   <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" alt="Frontend stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap" alt="Frontend stack" />
   </p>
 
 - **Backend**: Node.js, Express, Python, Django, Java  
@@ -59,11 +60,14 @@
     <img src="https://res.cloudinary.com/de0ld2xax/image/upload/v1736336371/Captura_de_pantalla_2025-01-08_123909_amifjy.png" width="400" alt="La Review" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2); transition: opacity 0.3s;">
   </a>
   <p>
+    <a href="https://lareview2.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/>
+    </a>
     <a href="https://github.com/AaronFerrer-VLC/server-final-project" target="_blank">
       <img src="https://img.shields.io/badge/SERVER-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Server repo"/>
     </a>
     <a href="https://github.com/AaronFerrer-VLC/client-final-project" target="_blank">
-      <img src="https://img.shields.io/badge/-CLIENT-green?style=for-the-badge&logo=github&logocolor=black" alt="Client repo"/>
+      <img src="https://img.shields.io/badge/-CLIENT-green?style=for-the-badge&logo=github&logoColor=black" alt="Client repo"/>
     </a>
   </p>
   <ul>
@@ -81,6 +85,9 @@
     <img src="https://res.cloudinary.com/de0ld2xax/image/upload/v1736336294/Captura_de_pantalla_2025-01-08_123736_vmuylr.png" width="400" alt="La Premiere" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2); transition: opacity 0.3s;">
   </a>
   <p>
+    <a href="https://lapremiere.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/>
+    </a>
     <a href="https://github.com/AaronFerrer-VLC/server-module2" target="_blank">
       <img src="https://img.shields.io/badge/SERVER-80ffaa?style=for-the-badge&logo=github&logoColor=black" alt="Server repo"/>
     </a>
@@ -111,22 +118,32 @@
 ## ⚙️ **GitHub Analytics**
 <p align="center">
   <a href="https://github.com/AaronFerrer-VLC">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AaronFerrer-VLC&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub stats"/>
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AaronFerrer-VLC&theme=algolia&hide_border=false" alt="GitHub streak stats"/>
   </a>
+</p>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronFerrer-VLC&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
 </p>
 
 ---
 
 ## 📬 **Connect with Me**
 <p align="center">
-  <a href="https://www.linkedin.com/in/aar%C3%B3n-jos%C3%A9-ferrer-barbas-474858150/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/aar%C3%B3n-jos%C3%A9-ferrer-barbas-474858150/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:aaronferrerbarbas@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:aaronferrerbarbas@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://aaronferrer-vlc.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github" alt="Portfolio">
+  <a href="https://aaronferrer-vlc.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
   </a>
 </p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AaronFerrer-VLC&color=blueviolet&style=flat-square" alt="Profile views"/>
+</div>
 
