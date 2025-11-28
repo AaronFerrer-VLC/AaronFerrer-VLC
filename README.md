@@ -8,15 +8,17 @@
 </p>
 
 ## 👨‍💻 **About Me**
+
 - 📲 **Full-Stack Developer** (JavaScript/TypeScript, React, Node.js, Express, MongoDB, Java, Python)
 - 🧑‍💼 **Product Owner** (roadmap, backlog, stakeholder comms, Agile/Scrum, Jira)
 - 🧪 **QA Engineer** (manual & automated testing, Selenium, Postman, Gherkin/Cucumber)
-- 🚀 API-First & Developer Experience advocate  
+- 🚀 API-First & Developer Experience advocate
 - 🌍 [Portfolio](https://aaronferrer-vlc.github.io/)
 
 ---
 
 ## 🔥 **What I'm Currently Working On**
+
 - 🚀 Building new **API-first** products in the MERN ecosystem
 - 🎨 Leveling up **Developer Experience (DX)** across tooling and workflows
 - 📚 Learning **TypeScript** and **GraphQL**
@@ -25,27 +27,27 @@
 
 ## 🚀 **Technologies I Work With**
 
-- **Frontend**: HTML, CSS, JavaScript, TypeScript, React, Bootstrap  
+- **Frontend**: HTML, CSS, JavaScript, TypeScript, React, Bootstrap
   <p>
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap" alt="Frontend stack" />
   </p>
 
-- **Backend**: Node.js, Express, Python, Django, Java  
+- **Backend**: Node.js, Express, Python, Django, Java
   <p>
     <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,java" alt="Backend stack" />
   </p>
 
-- **Databases**: MongoDB (Atlas), Oracle  
+- **Databases**: MongoDB (Atlas), Oracle
   <p>
     <img src="https://skillicons.dev/icons?i=mongodb,oracle" alt="Databases" />
   </p>
 
-- **Tools & Methodologies**: Visual Studio Code, Vite, Postman, Bruno, Jira, Trello, Notion, Miro, Figma, Scrum, Kanban  
+- **Tools & Methodologies**: Visual Studio Code, Vite, Postman, Bruno, Jira, Trello, Notion, Miro, Figma, Scrum, Kanban
   <p>
     <img src="https://skillicons.dev/icons?i=vscode,vite,postman,notion,figma,bruno,trello" alt="Tools & methods" />
   </p>
 
-- **Testing (QA)**: Selenium, Postman, Gherkin/Cucumber *(plus: CI-friendly test design & bug reporting with Jira/Zephyr)*
+- **Testing (QA)**: Selenium, Postman, Gherkin/Cucumber _(plus: CI-friendly test design & bug reporting with Jira/Zephyr)_
 
 ---
 
@@ -103,11 +105,51 @@
 </div>                                                             
 </td>
 </tr>
-</table>  
+<tr>
+<td width="50%">
+<h3 align="center">MeteoSmart</h3>
+<div align="center">
+  <a href="https://github.com/AaronFerrer-VLC/MeteoSmart" target="_blank">
+    <img src="https://via.placeholder.com/400x250/4A90E2/FFFFFF?text=MeteoSmart" width="400" alt="MeteoSmart" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2); transition: opacity 0.3s;">
+  </a>
+  <p>
+    <a href="https://github.com/AaronFerrer-VLC/MeteoSmart" target="_blank">
+      <img src="https://img.shields.io/badge/📦_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
+    </a>
+  </p>
+  <ul>
+    <li>🌤️ Weather app with real-time data</li>
+    <li>🔑 Features: OpenWeatherMap API integration, responsive design</li>
+    <li>🛠️ Built with: HTML, CSS, JavaScript, OpenWeatherMap API</li>
+  </ul>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">Gorila-Bas</h3>
+<div align="center">
+  <a href="https://github.com/AaronFerrer-VLC/Gorila-Bas" target="_blank">
+    <img src="https://via.placeholder.com/400x250/FF6B6B/FFFFFF?text=Gorila-Bas" width="400" alt="Gorila-Bas" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2); transition: opacity 0.3s;">
+  </a>
+  <p>
+    <a href="https://github.com/AaronFerrer-VLC/Gorila-Bas" target="_blank">
+      <img src="https://img.shields.io/badge/📦_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
+    </a>
+  </p>
+  <ul>
+    <li>🎮 2D turn-based game remake</li>
+    <li>🔑 Features: Physics simulation, animations, angle/velocity control</li>
+    <li>🛠️ Built with: Java, JavaFX</li>
+  </ul>
+</div>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🎓 **Certifications & Achievements**
+
 - ✅ Full-Stack Web Development — Ironhack
 - ✅ Certified Scrum Product Owner® (CSPO®) — Agilar Spain
 - ✅ Data Visualization with Python — CF TIC Getafe
@@ -116,6 +158,7 @@
 ---
 
 ## ⚙️ **GitHub Analytics**
+
 <p align="center">
   <a href="https://github.com/AaronFerrer-VLC">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AaronFerrer-VLC&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub stats"/>
@@ -129,6 +172,7 @@
 ---
 
 ## 📬 **Connect with Me**
+
 <p align="center">
   <a href="https://www.linkedin.com/in/aar%C3%B3n-jos%C3%A9-ferrer-barbas-474858150/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -146,4 +190,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AaronFerrer-VLC&color=blueviolet&style=flat-square" alt="Profile views"/>
 </div>
-
