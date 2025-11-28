@@ -13,7 +13,7 @@
 - 🧑‍💼 **Product Owner** (roadmap, backlog, stakeholder comms, Agile/Scrum, Jira)
 - 🧪 **QA Engineer** (manual & automated testing, Selenium, Postman, Gherkin/Cucumber)
 - 🚀 API-First & Developer Experience advocate
-- 🌍 [Portfolio](https://aaronferrer-dev.vercel.app/projects)
+- 🌍 [Portfolio](https://aaronferrer-dev.vercel.app/)
 
 ---
 
