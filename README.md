@@ -56,10 +56,10 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">La Review</h3>
+<h3 align="center">Pickup</h3>
 <div align="center">
   <a href="https://lareview2.netlify.app/" target="_blank">
-    <img src="https://res.cloudinary.com/de0ld2xax/image/upload/v1736336371/Captura_de_pantalla_2025-01-08_123909_amifjy.png" width="400" alt="La Review" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2); transition: opacity 0.3s;">
+    <img src="https://res.cloudinary.com/lucaslelieur/image/upload/v1742816384/PICKUP_MockUp_pl3si8.png" alt="PICKUP MockUp" width="400" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2); transition: opacity 0.3s;">
   </a>
   <p>
     <a href="https://lareview2.netlify.app/" target="_blank">
