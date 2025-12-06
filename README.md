@@ -110,7 +110,7 @@
 <h3 align="center">MeteoSmart</h3>
 <div align="center">
   <a href="https://github.com/AaronFerrer-VLC/MeteoSmart" target="_blank">
-    <img src="https://via.placeholder.com/400x250/4A90E2/FFFFFF?text=MeteoSmart" width="400" alt="MeteoSmart" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2); transition: opacity 0.3s;">
+    <img src="https://res.cloudinary.com/de0ld2xax/image/upload/v1765019667/Meteosmart_yd56uf.png" width="400" alt="MeteoSmart" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2); transition: opacity 0.3s;">
   </a>
   <p>
     <a href="https://github.com/AaronFerrer-VLC/MeteoSmart" target="_blank">
